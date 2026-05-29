@@ -1,8 +1,9 @@
+import React from "react";
 import { GlobeIcon, MailIcon, PhoneIcon } from "lucide-react";
 
-export type IconProps = React.HTMLAttributes<SVGElement>;
+export type IconProps = React.SVGProps<SVGSVGElement>;
 
-export const Icons: Record<string, (props: IconProps) => JSX.Element> = {
+export const Icons: Record<string, (props: IconProps) => React.ReactElement | null> = {
   globe: (props: IconProps) => <GlobeIcon {...props} />,
   email: (props: IconProps) => <MailIcon {...props} />,
   phone: (props: IconProps) => <PhoneIcon {...props} />,
