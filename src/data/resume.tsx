@@ -160,6 +160,22 @@ export const DATA = {
       start: "2023",
       end: "2027",
     },
+    {
+      school: "Shri S.N. Sidheshwar Sr Sec Public School",
+      href: "#",
+      degree: "Senior Secondary (CBSE) - 87.5%",
+      logoUrl: "/school1.png",
+      start: "2021",
+      end: "2023",
+    },
+    {
+      school: "D.A.V Public School",
+      href: "#",
+      degree: "Secondary (CBSE) - 93.8%",
+      logoUrl: "/school2.png",
+      start: "2019",
+      end: "2021",
+    },
   ],
   projects: [
     {
