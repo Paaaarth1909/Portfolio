@@ -140,7 +140,7 @@ export const DATA = {
     },
     {
       company: "CSI-Innowave, MAIT",
-      href: "https://www.mait.ac.in/",
+      href: "https://www.csiinnowave.com/",
       badges: [],
       location: "Delhi, India",
       title: "Logistics and Hospitality Head",
@@ -148,7 +148,7 @@ export const DATA = {
       start: "December 2023",
       end: "June 2026",
       description:
-        "Led logistics and hospitality operations for flagship events including Zephyr, Uncharted, internship fairs, and a hackathon at the Microsoft Gurgaon Office. Coordinated activities for 1000+ students while collaborating across teams to ensure smooth event execution over three years.",
+        "Led logistics and hospitality operations for flagship events including Zypher, Uncharted, internship fairs, and a hackathon at the Microsoft Gurgaon Office. Coordinated activities for 1000+ students while collaborating across teams to ensure smooth event execution over three years.",
     },
   ],
   education: [
