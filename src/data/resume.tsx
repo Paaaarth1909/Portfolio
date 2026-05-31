@@ -162,7 +162,7 @@ export const DATA = {
     },
     {
       school: "Shri S.N. Sidheshwar Sr Sec Public School",
-      href: "#",
+      href: "https://www.snsidheshwar.com/",
       degree: "Senior Secondary (CBSE) - 87.5%",
       logoUrl: "/school1.png",
       start: "2021",
@@ -170,7 +170,7 @@ export const DATA = {
     },
     {
       school: "D.A.V Public School",
-      href: "#",
+      href: "https://dav14gurgaon.com/",
       degree: "Secondary (CBSE) - 93.8%",
       logoUrl: "/school2.png",
       start: "2019",
