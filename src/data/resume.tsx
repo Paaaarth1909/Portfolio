@@ -181,7 +181,7 @@ export const DATA = {
     {
       title: "RSS News Deduplicator",
       href: "https://rss-news-dedupliactor.vercel.app/",
-      dates: "2025",
+      dates: "March 2026",
       active: true,
       description:
         "A full-stack smart news app that fetches articles from multiple RSS feeds, stores them locally in SQLite, and groups similar headlines so repeated coverage is easier to scan. The backend uses Node.js, Express, RSS parsing, SQLite, and a lightweight deduplication algorithm, while the frontend is built with React, TypeScript, Vite, and Tailwind CSS.",
@@ -214,7 +214,7 @@ export const DATA = {
     {
       title: "GitaGyanAI",
       href: "https://gitagyan-rho.vercel.app/",
-      dates: "2025",
+      dates: "December 2025",
       active: true,
       description:
         "GitaGyan is an AI-powered spiritual companion that enables conversational access to the Bhagavad Gita using Retrieval-Augmented Generation (RAG). Users can chat with an AI persona of Lord Krishna, retrieve context-aware verses, get simplified explanations, save/bookmark responses, and use multilingual support.",
@@ -247,7 +247,7 @@ export const DATA = {
     {
       title: "Worklog Impact Portfolio",
       href: "https://worklog-impact-portfolio.vercel.app/",
-      dates: "2025",
+      dates: "January 2026",
       active: true,
       description:
         "A full-stack productivity app that turns daily work logs into summaries, project insights, and portfolio-ready impact statements. It organizes entries by date, project, and impact, with dashboard analytics, weekly and monthly summaries, searchable history, and portfolio mode for concise bullets.",
@@ -281,7 +281,7 @@ export const DATA = {
     {
       title: "Decision Prioritiser",
       href: "https://decision-priortiser.vercel.app/",
-      dates: "2025",
+      dates: "February 2026",
       active: true,
       description:
         "A smart productivity app that helps users decide what to work on next by scoring tasks across impact, urgency, learning value, risk of delay, and energy required. It uses a weighted scoring engine, localStorage persistence, and a lightweight React + TypeScript + Vite frontend with Tailwind CSS and Framer Motion.",
@@ -311,7 +311,7 @@ export const DATA = {
     {
       title: "CRYPTONIX",
       href: "https://www.figma.com/design/zIOkGnV8FesVLGiCjvuAAc/Crypto-design-12-immediate-script--Copy-?node-id=0-1&t=pLA8D6G249DzgEek-1",
-      dates: "2024",
+      dates: "June - July 2025",
       active: true,
       description:
         "CRYPTONIX is a Flutter-based cryptocurrency tracking app that delivers real-time price updates, interactive candlestick charts, portfolio management, and price alerts. The app integrates market APIs and provides responsive UI built with Flutter and Dart.",
@@ -334,7 +334,7 @@ export const DATA = {
     {
       title: "No Fluff Reader",
       href: "https://no-fluff-reader.vercel.app/",
-      dates: "2025",
+      dates: "November 2025",
       active: true,
       description:
         "A minimal, privacy-minded Chrome extension, landing site, and optional API server that lets users read articles without paywalls or clutter. The repo includes a Manifest V3 extension, a React + Vite landing page with install/download flows, and supporting server-side features.",
