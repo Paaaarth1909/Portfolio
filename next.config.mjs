@@ -28,6 +28,14 @@ const nextConfig = {
       },
     ];
   },
+  async rewrites() {
+    return [
+      {
+        source: '/favicon.ico',
+        destination: '/profile.jpeg',
+      },
+    ];
+  },
 };
 
 // withContentCollections must be the outermost plugin
