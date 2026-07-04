@@ -127,8 +127,20 @@ export const DATA = {
 
   work: [
     {
+      company: "Aaptatt - Innovation at forefront!",
+      href: "https://www.aaptatt.com/",
+      badges: [],
+      location: "Gurugram, Haryana",
+      title: "Software Engineer Intern",
+      logoUrl: "/Aaptatt-logo.png",
+      start: "June 2026",
+      end: "Present",
+      description:
+        "Worked on AI-powered productivity and knowledge management applications as part of the development team. Developed and optimized intelligent features for content analysis, information retrieval, and workflow automation to improve usability, responsiveness, and overall user experience. Also contributed to applications involving resume analysis, content summarization, and decision-support systems through iterative development, testing, and optimization.",
+    },
+    {
       company: "Nebel Infotech",
-      href: "#",
+      href: "https://nebel.co.in/",
       badges: [],
       location: "Gurugram, Haryana",
       title: "Mobile App Dev Intern",
@@ -146,7 +158,7 @@ export const DATA = {
       title: "Logistics and Hospitality Head",
       logoUrl: "/CSI.png",
       start: "December 2023",
-      end: "June 2026",
+      end: "Present",
       description:
         "Led logistics and hospitality operations for flagship events including Zypher, Uncharted, internship fairs, and a hackathon at the Microsoft Gurgaon Office. Coordinated activities for 1000+ students while collaborating across teams to ensure smooth event execution over three years.",
     },
