@@ -100,7 +100,7 @@ export const DATA = {
       },
       Resume: {
         name: "Resume",
-        url: "https://drive.google.com/file/d/1h5Zmaf6A0pmm09oixrFCyiZCnOsYf6xL/view?usp=sharing",
+        url: "https://drive.google.com/file/d/1sfubE0gxfIl3VVyRGSFQJrbcGBYADJ7l/view?usp=sharing",
         icon: FileTextIcon,
         navbar: true,
       },
