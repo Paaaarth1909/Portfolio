@@ -224,39 +224,6 @@ export const DATA = {
       video: "",
     },
     {
-      title: "GitaGyanAI",
-      href: "https://gitagyan-rho.vercel.app/",
-      dates: "December 2025",
-      active: true,
-      description:
-        "GitaGyan is an AI-powered spiritual companion that enables conversational access to the Bhagavad Gita using Retrieval-Augmented Generation (RAG). Users can chat with an AI persona of Lord Krishna, retrieve context-aware verses, get simplified explanations, save/bookmark responses, and use multilingual support.",
-      technologies: [
-        "React",
-        "TypeScript",
-        "Tailwind CSS",
-        "ShadCN UI",
-        "Node.js",
-        "Express",
-        "MongoDB",
-        "Gemini API",
-        "AstraDB",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://gitagyan-rho.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Paaaarth1909/GitaGyanAI",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "./projects/gitagyan.png",
-      video: "",
-    },
-    {
       title: "Worklog Impact Portfolio",
       href: "https://worklog-impact-portfolio.vercel.app/",
       dates: "January 2026",
