@@ -128,7 +128,7 @@ export const DATA = {
       title: "Software Engineer Intern",
       logoUrl: "/Aaptatt-logo.png",
       start: "June 2026",
-      end: "Present",
+      end: "August 2026",
       description:
         "Worked on AI-powered productivity and knowledge management applications as part of the development team. Developed and optimized intelligent features for content analysis, information retrieval, and workflow automation to improve usability, responsiveness, and overall user experience. Also contributed to applications involving resume analysis, content summarization, and decision-support systems through iterative development, testing, and optimization.",
     },
