@@ -152,7 +152,7 @@ export const DATA = {
       title: "Logistics and Hospitality Head",
       logoUrl: "/CSI.png",
       start: "December 2023",
-      end: "Present",
+      end: "September 2026",
       description:
         "Led logistics and hospitality operations for flagship events including Zypher, Uncharted, internship fairs, and a hackathon at the Microsoft Gurgaon Office. Coordinated activities for 1000+ students while collaborating across teams to ensure smooth event execution over three years.",
     },
