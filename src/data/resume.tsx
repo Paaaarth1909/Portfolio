@@ -185,6 +185,38 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "SmartSplit Pro",
+      href: "https://smartsplit-pro.vercel.app/",
+      dates: "October 2026",
+      active: true,
+      description:
+        "AI-powered intelligent group expense sharing, debt simplification, and real-time collaboration platform.SmartSplit simplifies group finances. Upload a receipt or describe an expense in natural language — SmartSplit automatically parses line items, categories, and amounts, simplifies group debts using graph algorithms, and syncs updates in real time across all members.",
+      technologies: [
+        "Next.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "TypeScript",
+        "Gemini AI",
+        "Socket.IO",
+        "groq",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://smartsplit-pro.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Paaaarth1909/SmartSplit",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/projects/SmartSplit-Pro.png",
+      video: "",
+    },
+    {
       title: "RSS News Deduplicator",
       href: "https://rss-news-dedupliactor.vercel.app/",
       dates: "March 2026",
